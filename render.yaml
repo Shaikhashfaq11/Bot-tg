@@ -1,0 +1,26 @@
+services:
+  - type: web
+    name: seedhemout-telegram-bot
+    env: node
+    plan: free
+    buildCommand: npm install --legacy-peer-deps && npm run build
+    startCommand: npm start
+    envVars:
+      - key: PORT
+        value: 3000
+      - key: TELEGRAM_BOT_TOKEN
+        value: 9166895702:AAEmgZH9Tk0OfHgeEg44iF-P3M98UYiFSCo
+      - key: TELEGRAM_PRIVATE_CHANNEL_ID
+        value: -1001928374829
+      - key: SUNPAY_BASE_URL
+        value: https://ttpay.business
+      - key: SUNPAY_MERCHANT_ID
+        value: "63471842"
+      - key: SUNPAY_PAYIN_API_KEY
+        value: 68299af3f952195cc35aa5cb53d33ceaa079d842118143d33d3c43cefcd5f5f4
+      - key: SUNPAY_PAYIN_API_SECRET
+        value: 1ea28480c89d971bef0c794968ed3422947e6d5f47d73e7b1aacf42d5af2b986
+      - key: SUNPAY_WEBHOOK_SECRET
+        value: 01e008e11cda72deb0769fbac1aa9e617b4fbdea55941155967d5962d110457f
+      - key: ADMIN_PIN
+        value: "7860"

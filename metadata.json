@@ -1,0 +1,8 @@
+{
+  "name": "Seedhemout Coder - Course & SunPay Bot Studio",
+  "description": "Complete course academy, live bot simulator, SunPay & Razorpay automated gateways, and single-use channel invite delivery.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}

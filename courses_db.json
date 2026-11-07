@@ -1,0 +1,38 @@
+{
+  "web_ai": {
+    "title": {
+      "en": "Full Stack Web & AI Mastery",
+      "hi": "फुल स्टैक वेब और एआई मास्टरी"
+    },
+    "price": 999,
+    "description": {
+      "en": "React 19, Node.js, AI SaaS Apps, PostgreSQL and full production deployment.",
+      "hi": "React 19, Node.js, AI SaaS ऍप्स, PostgreSQL और लाइव प्रोडक्शन डिप्लॉयमेंट।"
+    },
+    "vaultUrl": "https://drive.google.com/drive/folders/demo-fullstack-course-2026"
+  },
+  "trading": {
+    "title": {
+      "en": "Crypto & Price Action Trading Pro",
+      "hi": "क्रिप्टो और प्राइस एक्शन ट्रेडिंग प्रो"
+    },
+    "price": 1499,
+    "description": {
+      "en": "Smart Money Concepts (SMC), order blocks, liquidity traps, and risk management.",
+      "hi": "स्मार्ट मनी कॉन्सेप्ट्स (SMC), आर्डर ब्लॉक्स, लिक्विडिटी ट्रैप्स और रिस्क मैनेजमेंट।"
+    },
+    "vaultUrl": "https://notion.site/demo-trading-masterclass-vault"
+  },
+  "editing": {
+    "title": {
+      "en": "Video Editing & Content Creation Secrets",
+      "hi": "वीडियो एडिटिंग और कंटेंट क्रिएशन सीक्रेट्स"
+    },
+    "price": 699,
+    "description": {
+      "en": "Premiere Pro, After Effects, viral retention storytelling, and 100GB+ motion assets.",
+      "hi": "Premiere Pro, After Effects, वायरल वीडियो एडिटिंग और 100GB+ प्रीमियम मोशन एसेट्स।"
+    },
+    "vaultUrl": "https://drive.google.com/drive/folders/demo-video-editing-pack"
+  }
+}
